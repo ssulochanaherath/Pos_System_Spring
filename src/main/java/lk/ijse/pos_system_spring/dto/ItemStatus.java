@@ -1,4 +1,6 @@
 package lk.ijse.pos_system_spring.dto;
 
-public interface ItemStatus {
+import java.io.Serializable;
+
+public interface ItemStatus extends Serializable,SuperDTO {
 }
