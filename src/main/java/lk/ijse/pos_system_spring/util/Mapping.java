@@ -1,13 +1,13 @@
 package lk.ijse.pos_system_spring.util;
 
-import lk.ijse.possystemapispring.dto.Impl.CustomerDTO;
-import lk.ijse.possystemapispring.dto.Impl.ItemDTO;
-import lk.ijse.possystemapispring.dto.Impl.OrderDTO;
-import lk.ijse.possystemapispring.dto.Impl.OrderDetailsDTO;
-import lk.ijse.possystemapispring.entity.Impl.CustomerEntity;
-import lk.ijse.possystemapispring.entity.Impl.ItemEntity;
-import lk.ijse.possystemapispring.entity.Impl.OrderDetailEntity;
-import lk.ijse.possystemapispring.entity.Impl.OrderEntity;
+import lk.ijse.pos_system_spring.dto.Impl.CustomerDTO;
+import lk.ijse.pos_system_spring.dto.Impl.ItemDTO;
+import lk.ijse.pos_system_spring.dto.Impl.OrderDTO;
+import lk.ijse.pos_system_spring.dto.Impl.OrderDetailsDTO;
+import lk.ijse.pos_system_spring.entity.Impl.CustomerEntity;
+import lk.ijse.pos_system_spring.entity.Impl.ItemEntity;
+import lk.ijse.pos_system_spring.entity.Impl.OrderDetailEntity;
+import lk.ijse.pos_system_spring.entity.Impl.OrderEntity;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;
